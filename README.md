@@ -4,7 +4,7 @@
 Simple & Direct	A console-based calendar application written in C. Displays a calendar for any given year.  
 Feature-Focused	A lightweight command-line calendar utility developed in C, featuring dynamic month and year generation.  
 Educational	My first C project: a simple calendar generator used for practicing C programming fundamentals and date handling.  
-#DESIGN AND IMPLEMENTATION  
+## DESIGN AND IMPLEMENTATION  
 
 1.For taking input we used scanf()  
 2.the months are stored in array  
@@ -12,14 +12,14 @@ Educational	My first C project: a simple calendar generator used for practicing 
 4.for no of days in a month we used an array  
 5.for saving it in a fille we used FILE   
 
-#THE FUNCTIONS IN THE CODE  
+## THE FUNCTIONS IN THE CODE  
 
 getfirstdayofyear(int year)----------- to get the starting day  
 leapyear(int year)-------------------- to check the year is leap year or not  
 printmonth(int year)------------------ to print the months of the month  
 main()-------------------------------- to run the code  
 
-#FLOW OF THE PROGRAM----  
+## FLOW OF THE PROGRAM----  
 
 1.start  
 2.take the input of year by the user  
